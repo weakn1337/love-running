@@ -56,6 +56,18 @@ h1 {
     border-bottom: 1px solid;   color: #3a3a3a;
 }
 
+/* Navbar styles and drowdown toggle */
+nav {
+    position:absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow : 0 2px 2px #3a3a3a;
+    display: none;
+
+}
+
 /* main content */
 
 main {
