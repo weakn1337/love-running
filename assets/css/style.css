@@ -119,4 +119,14 @@ footer {
    .nav-toggle-label {
     display: none;
    }
+   #logo {
+    font-size: 200%;
+    line-height: 75px;
+    margin: 0 0.5rem;
+   }
+    /* main content */
+    main {
+        /* Push main content down to accommodate larger header */
+        margin-top: 79px;
+    }
 }
