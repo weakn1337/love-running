@@ -143,6 +143,23 @@ main {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
+
+#circle-cover-bg {
+    height:90vw;
+    width: 90vw;
+    background: url('../images/reasons-image.jpg') no-repeat center center/cover;
+    margin-bottom: 20px;
+    /* makes border circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+#benefits-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* footer */
 
 #social-networks {
